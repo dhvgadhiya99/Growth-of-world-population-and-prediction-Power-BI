@@ -42,4 +42,36 @@
 <li>Macrotrends: Global Metrics</li>
 <li>Our World in Data</li>
 </ol>
-<h2>&nbsp;</h2>
+<h2>Snapshots</h2>
+<table>
+    <tr>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(1).jpg" alt="Image 1"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(2).jpg" alt="Image 2"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(3).jpg" alt="Image 3"></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(4).jpg" alt="Image 4"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(5).jpg" alt="Image 5"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(6).jpg" alt="Image 6"></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(7).jpg" alt="Image 7"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(8).jpg" alt="Image 8"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(9).jpg" alt="Image 9"></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(10).jpg" alt="Image 1"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(11).jpg" alt="Image 2"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(12).jpg" alt="Image 3"></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(13).jpg" alt="Image 1"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(14).jpg" alt="Image 2"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(15).jpg" alt="Image 3"></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(16).jpg" alt="Image 1"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(17).jpg" alt="Image 2"></td>
+        <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(18).jpg" alt="Image 3"></td>
+    </tr>
+</table>
