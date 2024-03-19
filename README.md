@@ -27,21 +27,6 @@
 <li>Percentage of GDP spent on healthcare.</li>
 <li>Literacy rate trends.</li>
 </ul>
-<h2>Conclusion and Recommendations</h2>
-<p>The project concludes with recommendations for addressing population growth challenges:</p>
-<ul>
-<li>Invest in healthcare and education.</li>
-<li>Increase access to family planning services.</li>
-<li>Address poverty and inequality.</li>
-<li>Foster international cooperation.</li>
-</ul>
-<h2>References</h2>
-<p>The project relied on data from the following sources:</p>
-<ol>
-<li>United Nations: <a href="https://population.un.org/wpp/" target="_new">World Population Prospects</a></li>
-<li>Macrotrends: Global Metrics</li>
-<li>Our World in Data</li>
-</ol>
 <h2>Snapshots</h2>
 <table>
     <tr>
@@ -75,3 +60,19 @@
         <td><img src="https://github.com/dhvgadhiya99/Growth-of-world-population-and-prediction-Power-BI/blob/main/Snapshots/Snapshot%20(18).jpg" alt="Image 3"></td>
     </tr>
 </table>
+
+<h2>Conclusion and Recommendations</h2>
+<p>The project concludes with recommendations for addressing population growth challenges:</p>
+<ul>
+<li>Invest in healthcare and education.</li>
+<li>Increase access to family planning services.</li>
+<li>Address poverty and inequality.</li>
+<li>Foster international cooperation.</li>
+</ul>
+<h2>References</h2>
+<p>The project relied on data from the following sources:</p>
+<ol>
+<li>United Nations: <a href="https://population.un.org/wpp/" target="_new">World Population Prospects</a></li>
+<li>Macrotrends: Global Metrics</li>
+<li>Our World in Data</li>
+</ol>
